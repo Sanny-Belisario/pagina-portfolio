@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffc996;
+    display: inline;
+    color: #eeab6d;
+}
+
+#logo img {
+    height: 150px;
+}
+
+header {
+    background-color: #fff;
+    height: 152px;
+    float: left;
+    width: 100%;
+}
+
+header div {
+    float: left;
+    width: 50%;
+}
+
+#titulo {
+    padding-top: 55px;
+}
+
+nav {
+    background-color: #d8ac9c;
+    float: left;
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin-top: 5px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin-left: 5px;
+    font-size: 17px;
+    padding: 15px;
+    color: #000;
+}
+
+nav ul li a:hover {
+    color: #fff;
+    background-color: #e2b5a4;
+}
+
+main {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    display: inline;
+}
+
+main div {
+    width: 80%;
+    margin: auto;
+}
+
+main div p {
+    color: #000;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#autor {
+    text-align: center;
+    margin: 20px;
+    color: #000;
+}
+
+div h2 {
+    margin-bottom: 5px;
+}
+
+.imagens {
+    width: 30%;
+    float: left;
+    margin: 5px;
+    height: 540px;
+}
+
+.imagens img {
+    width: 100%;
+}
+
+#torreNero {
+    height: 475px;
+}
+
+#heroiPerdido {
+    height: 485px;
+}
+
+footer {
+    background-color: #fff;
+    width: 100%;
+    float: left;
+    padding: 15px;
+    color: #cf8947;
+}
+
+footer p {
+    text-align: center;
+}
